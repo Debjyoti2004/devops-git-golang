@@ -1,1 +1,1 @@
-# devops-git-golang
+# DevOps Git Project with Golang
